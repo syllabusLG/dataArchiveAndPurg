@@ -1,4 +1,4 @@
-Below is a Python script that automates the archiving of Oracle tables within a schema. The script connects to the Oracle database, identifies tables in the schema, and moves data from each table to corresponding archive tables based on a condition. You’ll need the cx_Oracle library to interact with the Oracle database.
+This application is a Python script that automates the archiving of Oracle tables within a schema. The script connects to the Oracle database, identifies tables in the schema, and moves data from each table to corresponding archive tables based on a condition. You’ll need the cx_Oracle library to interact with the Oracle database.
 
 ##Prerequisites
 
